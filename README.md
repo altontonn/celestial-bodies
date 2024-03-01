@@ -7,11 +7,11 @@
 
 This repository includes file with plain SQL that can be used to recreate a database:
 
-- Use [schema.sql](./universe.sql) to create all tables and populate them
+- Use [universe.sql](./project/freecodecamp/universe.sql) to create all tables and populate them
 
 ## Author
 
-👤 **Author1**
+👤 **Author**
 
 - GitHub: [Newton Alumasa](https://github.com/altontonn)
 - Twitter: [Newton Alumasa](https://twitter.com/AlumasaNewton)
@@ -33,4 +33,4 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-This project is [MIT](https://github.com/altontonn/clinic-database/blob/dev/LICENSE) licensed.
+This project is [MIT](https://github.com/altontonn/celestial-bodies/blob/main/LICENSE) licensed.
