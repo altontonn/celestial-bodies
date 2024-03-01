@@ -5,7 +5,7 @@
 
 ## Getting Started
 
-This repository includes files with plain SQL that can be used to recreate a database:
+This repository includes file with plain SQL that can be used to recreate a database:
 
 - Use [schema.sql](./universe.sql) to create all tables and populate them
 
@@ -29,7 +29,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Microverse
+- FreeCodeCamp
 
 ## 📝 License
 
